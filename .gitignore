@@ -6,3 +6,4 @@ target/
 # l'environnement, pas dans le dépôt — un mot de passe commité une fois reste
 # dans l'historique Git pour toujours.
 *.env
+.DS_Store
